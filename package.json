@@ -1,0 +1,24 @@
+{
+  "name": "service-cloud-config",
+  "version": "0.0.1",
+  "description": "nodejs cloud service config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/andrepinto/service-cloud-config"
+  },
+  "keywords": [
+    "nodejs",
+    "cloud",
+    "config",
+    "consul"
+  ],
+  "author": "Andre Pinto <andrepintomg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "consul": "^0.23.0"
+  }
+}
