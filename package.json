@@ -1,6 +1,6 @@
 {
   "name": "service-cloud-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nodejs cloud service config",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/andrepinto/service-cloud-config"
+    "url": "https://github.com/andrepinto/service-cloud-config"
   },
   "keywords": [
     "nodejs",
