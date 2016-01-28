@@ -1,3 +1,3 @@
 # service-cloud-config
 
-[![NPM version][npm-version-image]][npm-version-url]
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
