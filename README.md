@@ -8,5 +8,6 @@ About service-cloud-config
 Adpters
 -------------
 currently only supports:
-> **Consul** 
+ **Consul** 
+ 
 ![enter image description here](http://tfitch.com/automation-tools-bootcamp/images/consul-mini-logo.png)
