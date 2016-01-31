@@ -133,6 +133,8 @@ my-service/database/ip
  - **get configurations (locally)**
 		
 	 - take paths in documents which can include nested paths specified by '.'s and can evaluate the path to a value
-        ```javascript
-            console.log(config.get('database.ip'));
-        ```
+
+
+ ```javascript
+    config.get('database.ip');
+  ```
