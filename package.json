@@ -20,7 +20,6 @@
   "license": "ISC",
   "dependencies": {
     "consul": "^0.23.0",
-    "doc-path": "^1.0.7",
     "lodash": "^4.1.0"
   }
 }
